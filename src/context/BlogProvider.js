@@ -35,9 +35,6 @@ const BlogProvider = props => {
             console.log(err);
         }
     };
-    // Edit Post by id
-
-    // Delete Post by id
 
     return (
         <BlogContext.Provider

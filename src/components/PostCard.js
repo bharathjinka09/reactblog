@@ -29,7 +29,7 @@ const PostCard = (props) => {
                 </div>
                 <div className='card-author-section'>
                     <p>{props.author}</p>
-                    <p>Dec 6, 2019</p>
+                    <p>{props.date}</p>
                 </div>
             </div>
         </div>
